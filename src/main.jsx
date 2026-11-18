@@ -5,7 +5,7 @@ import './index.css'
 import heroImage from './assets/hero-products.png'
 import logo from './assets/lakshmi-logo.png'
 
-const WA = '917598093987'
+const WA = '917598099387'
 const products = [
   {id:'pepper',name:'Black Pepper',category:'Spices',description:'Bold, aromatic peppercorns for everyday cooking.',sizes:['250 grams','500 grams','1 kg'],image:'https://images.unsplash.com/photo-1599909533605-fc7b7f4a9d2f?auto=format&fit=crop&w=800&q=85'},
   {id:'honey',name:'Forest Honey',category:'Natural',description:'Golden forest honey in a convenient 1 kg pack.',sizes:['1 kg'],image:'https://images.unsplash.com/photo-1587049352851-8d4e89133924?auto=format&fit=crop&w=800&q=85'},
